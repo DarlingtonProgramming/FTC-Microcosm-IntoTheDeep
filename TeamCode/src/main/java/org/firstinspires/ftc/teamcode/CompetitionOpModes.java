@@ -27,6 +27,6 @@ public final class CompetitionOpModes {
 
     @OpModeRegistrar
     public static void register(OpModeManager manager) {
-//        manager.register(metaForClass(ScrappyTeleOp.class, OpModeMeta.Flavor.TELEOP), ScrappyTeleOp.class);
+//        manager.register(metaForClass(TitanicBucket1Plus3.class, OpModeMeta.Flavor.AUTONOMOUS), TitanicBucket1Plus3.class);
     }
 }
